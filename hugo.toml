@@ -2,6 +2,11 @@ baseURL = 'https://byuantl.github.io/'
 languageCode = 'en-us'
 title = 'Bowen Yuan'
 theme = 'hugo-book'
+
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+    [caches.images]
+        dir = ':cacheDir/images'
+
+[params]
+    BookTheme = 'auto'
+    BookSection = 'docs'
