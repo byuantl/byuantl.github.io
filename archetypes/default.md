@@ -1,5 +1,13 @@
-+++
-date = '{{ .Date }}'
-draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+title: "{{ .Name | humanize | title }}"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+bookHidden: true
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+# bookIcon: ''
+---
+{{< katex />}}

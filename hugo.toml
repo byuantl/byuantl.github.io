@@ -9,4 +9,4 @@ theme = 'hugo-book'
 
 [params]
     BookTheme = 'auto'
-    BookSection = 'docs'
+    BookSection = '*'
