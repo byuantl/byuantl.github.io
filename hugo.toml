@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Bowen Yuan'
 theme = 'hugo-book'
 
+enableEmoji = true
+
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
@@ -11,8 +13,9 @@ copyright = '[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcod
 
 # Needed for mermaid/katex shortcodes
 [markup]
-[markup.goldmark.renderer]
-  unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [markup.tableOfContents]
   startLevel = 1
