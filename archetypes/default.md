@@ -11,4 +11,4 @@ bookHidden: true
 # bookIcon: ''
 ---
 {{< katex />}}
-# Title
+# {{ .Name | humanize | title }}
