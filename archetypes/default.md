@@ -11,3 +11,25 @@ bookHidden: true
 # bookIcon: ''
 ---
 {{< katex />}}
+# Title
+{{< image 
+        src="placeholder.svg" 
+        alt="title" 
+        title="title" 
+        loading="lazy" 
+>}}
+## Overview
+Text
+## Highlights
+- item 1
+- item 2
+# Details
+{{< card >}}
+    {{< image 
+        src="placeholder.svg" 
+        alt="A placeholder" 
+        title="A placeholder" 
+        loading="lazy" 
+    >}}
+    Caption
+{{< /card >}}
