@@ -11,11 +11,10 @@ bookHidden: true
 # bookIcon: ''
 ---
 {{< katex />}}
-# Title
+# {{ .Name | humanize | title }}
 {{< image 
         src="placeholder.svg" 
         alt="title" 
-        title="title" 
         loading="lazy" 
 >}}
 ## Overview
@@ -28,7 +27,6 @@ Text
     {{< image 
         src="placeholder.svg" 
         alt="A placeholder" 
-        title="A placeholder" 
         loading="lazy" 
     >}}
     Caption
