@@ -13,9 +13,9 @@ bookHidden: true
 {{< katex />}}
 # {{ .Name | humanize | title }}
 {{< image 
-        src="placeholder.svg" 
-        alt="title" 
-        loading="lazy" 
+  src="placeholder.svg" 
+  alt="title" 
+  loading="lazy" 
 >}}
 ## Overview
 Text
@@ -24,10 +24,10 @@ Text
 - item 2
 # Details
 {{< card >}}
-    {{< image 
-        src="placeholder.svg" 
-        alt="A placeholder" 
-        loading="lazy" 
-    >}}
-    Caption
+  {{< image 
+    src="placeholder.svg" 
+    alt="A placeholder" 
+    loading="lazy" 
+  >}}
+  Caption
 {{< /card >}}
