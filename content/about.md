@@ -27,7 +27,7 @@ weight: 1
 
 - # 
   {{< image 
-    src="3-quarter.jpg" 
+    src="/about/3-quarter.jpg" 
     alt="3/4 Portrait" 
     loading="lazy" 
   >}}
