@@ -7,6 +7,19 @@ theme = 'hugo-book'
     [caches.images]
         dir = ':cacheDir/images'
 
+copyright = '[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)'
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
 [params]
     BookTheme = 'auto'
     BookSection = '*'
+    BookPortableLinks = 'warning'
