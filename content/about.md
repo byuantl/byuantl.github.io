@@ -23,11 +23,11 @@ weight: 1
 
   - **RF communications** and **system verification** for space-constrained hardware designing a [Dynamic Channel Emulator](https://doi.org/10.1109/CCECE59415.2024.10667238) at the [UBC Radio Science Lab](https://rsl.ece.ubc.ca/)
 
-  Outside of work, you can probably find me [curling](https://vancurl.com/index.php) or [watching movies](https://boxd.it/dGkGt). Feel free to check out my [resume](https://github.com/byuantl/byuantl.github.io/blob/main/assets/Bowen_Yuan_Resume.pdf) or [email me](mailto:byuan06@student.ubc.ca) if you’d like to chat :)
+  Outside of work, you can probably find me at a [rink](https://vancurl.com/index.php) or at a [movie theatre](https://boxd.it/dGkGt). Feel free to check out my [resume](https://github.com/byuantl/byuantl.github.io/blob/main/assets/Bowen_Yuan_Resume.pdf) or [email me](mailto:byuan06@student.ubc.ca) if you’d like to chat :)
 
 - # 
   {{< image 
-    src="about/3-quarter.jpg" 
+    src="3-quarter.jpg" 
     alt="3/4 Portrait" 
     loading="lazy" 
   >}}
