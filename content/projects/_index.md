@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-weight: 1
+weight: 2
 bookFlatSection: true
 # bookToc: false
 # bookHidden: true
