@@ -20,11 +20,11 @@ weight: 1
     loading="lazy" 
   >}}
 
-- # Hi, I'm Bowen!
+- # **Hi, I'm Bowen!**
   I am an Engineering Physics student designing analog and mixed-signal systems at the intersection of physics and real-world hardware.
 {{% /columns %}}
 
-## Featured Projects
+## **Featured Projects**
 
 {{% columns %}}
 - {{< card 

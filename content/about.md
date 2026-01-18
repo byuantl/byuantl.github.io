@@ -12,7 +12,7 @@ weight: 1
 ---
 {{< katex />}}
 {{% columns ratio="1.618:1"%}}
-- # About Me
+- # **About Me**
   Hey there! I’m Bowen, a third-year Engineering Physics student at the University of British Columbia with a strong interest in analog and mixed-signal design, experimental physics, and building systems that bridge physical principles with real-world hardware.
 
   I am drawn to physics for its ability to explain how the world works at a fundamental level, and I gravitated toward electronics as a way to make those ideas tangible. Along the way, some of the things I’ve worked on include:

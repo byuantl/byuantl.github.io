@@ -11,16 +11,16 @@ bookFlatSection: true
 # bookIcon: ''
 ---
 {{< katex />}}
-# Projects
+# **Projects**
 Here are some fun projects from throughout the years. Ask me about them!
 {{% columns %}}
 - {{< card 
-    href="/projects/example" 
-    image="placeholder.svg" 
+    href="/projects/search-and-rescue" 
+    image="/projects/search-and-rescue/3ed423ad-08a1-4e6c-8404-085384f53286.png"
   >}}
-  **Project 1**
+  **Autonmous Search and Rescue Robot**
 
-  Description
+  Fully autonomous search and rescue robot integrating dual system architecture, YOLO object detection, and articulation inverse kinematics.
   {{< /card >}}
 
 - {{< card 
