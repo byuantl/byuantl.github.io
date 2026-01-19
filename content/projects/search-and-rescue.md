@@ -18,8 +18,13 @@ weight: 1
   loading="lazy" 
 >}}
 # **Overview**
-
 A fully autonomous "search and rescue" robot integrating dual sensing (vision + IR reflectance), YOLO object detection, articulated arm with inverse kinematics, and a split system architecture (Raspberry Pi high‑level + ESP32 real‑time control).
+
+# **Highlights**
+- Project Management + Advanced Problem Solving
+- Rapid Prototyping, Manufacturing + CAD
+- Soldering, Electronics + PCB Design
+- Troubleshooting (noise issues, signal integrity, software + hardware)
 ## **Full Mission**
 {{< youtube eCi2i0b2N54 >}}
 
@@ -28,12 +33,6 @@ A fully autonomous "search and rescue" robot integrating dual sensing (vision + 
 
 ## **Object Tracking**
 {{< youtube 3Meb8kBMPbk >}}
-
-# **Highlights**
-- Project Management + Advanced Problem Solving
-- Rapid Prototyping, Manufacturing + CAD
-- Soldering, Electronics + PCB Design
-- Troubleshooting (noise issues, signal integrity, software + hardware)
 
 ---
 # **Details**

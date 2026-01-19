@@ -28,21 +28,21 @@ weight: 1
 
 {{% columns %}}
 - {{< card 
-    href="/projects/example" 
-    image="placeholder.svg" 
+    href="/projects/op-amp" 
+    image="/projects/op-amp/dc.png" 
   >}}
-  **Project 1**
+  **Two Stage Op Amp**
 
-  Description
+  Two stage CMOS op amp (gpdk045) achieving 46dB gain and 600MHz bandwidth designed and simulated in Cadence Virtuoso and ADE Assembler
   {{< /card >}}
 
 - {{< card 
-    href="/projects/example" 
-    image="placeholder.svg" 
+    href="/projects/self-driving" 
+    image="/projects/self-driving/pedestrian_detection.png" 
   >}}
-  **Project 2**
+  **Simulated Self-driving Agent**
 
-  Description
+  Self-driving agent navigating simulated ROS Gazebo environment built with computer vision stack including custom CNN for OCR and sign recognition.
   {{< /card >}}
 {{% /columns %}}
 
