@@ -12,4 +12,4 @@ weight: 1
 ---
 {{< katex />}}
 # Resume
-{{< pdf src="/Bowen_Yuan_Resume.pdf#view=Fit&page=1">}}
+{{< pdf src="/resume/Bowen_Yuan_Resume.pdf#view=Fit&page=1" height="85vh" >}}
