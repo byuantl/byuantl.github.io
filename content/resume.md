@@ -7,9 +7,9 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
-# bookHref: ''
+# bookHref: '/resume/bowen_yuan_resume.pdf'
 # bookIcon: ''
 ---
 {{< katex />}}
 # Resume
-{{< embed-pdf url="/Bowen_yuan_resume.pdf" hidePaginator="true" >}}
+{{< pdf src="/Bowen_Yuan_Resume.pdf#view=Fit&page=1">}}
