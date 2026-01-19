@@ -44,4 +44,5 @@ Self-driving agent navigating a simulated ROS Gazebo environment built with a co
 
 ---
 # **Details**
+Check out the project repository on [Github](https://github.com/Taichi-Kamei/ENPH353_Controller)!
 {{< pdf src="/projects/self-driving/Bowen_Yuan_Self-driving_Report.pdf#view=Fit&page=2" height="85vh" >}}
