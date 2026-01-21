@@ -31,9 +31,9 @@ weight: 1
     href="/projects/op-amp" 
     image="/projects/op-amp/dc.png" 
   >}}
-  **Two Stage Op Amp**
+  **45nm Two Stage Op Amp**
 
-  Two stage CMOS op amp (gpdk045) achieving 46dB gain and 600MHz bandwidth designed and simulated in Cadence Virtuoso and ADE Assembler
+  Two stage CMOS op amp (gpdk045) achieving 52dB gain and 618MHz bandwidth designed and simulated in Cadence Virtuoso and ADE Assembler
   {{< /card >}}
 
 - {{< card 

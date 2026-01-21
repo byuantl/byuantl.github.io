@@ -15,6 +15,15 @@ bookFlatSection: true
 Here are some fun projects from throughout the years. Ask me about them!
 {{% columns %}}
 - {{< card 
+    href="/projects/op-amp" 
+    image="/projects/op-amp/dc.png" 
+  >}}
+  **45nm Two Stage Op Amp**
+
+  Two stage CMOS op amp (gpdk045) achieving 52dB gain and 618MHz bandwidth designed and simulated in Cadence Virtuoso and ADE Assembler
+  {{< /card >}}
+
+- {{< card 
     href="/projects/search-and-rescue" 
     image="/projects/search-and-rescue/3ed423ad-08a1-4e6c-8404-085384f53286.png"
   >}}
@@ -23,6 +32,8 @@ Here are some fun projects from throughout the years. Ask me about them!
   Fully autonomous search and rescue robot integrating dual system architecture, YOLO object detection, and articulation inverse kinematics
   {{< /card >}}
 
+{{% /columns %}}
+{{% columns %}}
 - {{< card 
     href="/projects/pcb-etching" 
     image="placeholder.svg" 
@@ -32,8 +43,6 @@ Here are some fun projects from throughout the years. Ask me about them!
   Description
   {{< /card >}}
 
-{{% /columns %}}
-{{% columns %}}
 - {{< card 
     href="/projects/sar-adc" 
     image="placeholder.svg" 
@@ -42,7 +51,8 @@ Here are some fun projects from throughout the years. Ask me about them!
 
   Description
   {{< /card >}}
-
+{{% /columns %}}
+{{% columns %}}
 - {{< card 
     href="/projects/self-driving" 
     image="/projects/self-driving/pedestrian_detection.png" 
@@ -50,16 +60,6 @@ Here are some fun projects from throughout the years. Ask me about them!
   **Simulated Self-driving Agent**
 
   Self-driving agent navigating simulated ROS Gazebo environment built with computer vision stack including custom CNN for OCR and sign recognition.
-  {{< /card >}}
-{{% /columns %}}
-{{% columns %}}
-- {{< card 
-    href="/projects/op-amp" 
-    image="/projects/op-amp/dc.png" 
-  >}}
-  **Two Stage Op Amp**
-
-  Two stage CMOS op amp (gpdk045) achieving 46dB gain and 600MHz bandwidth designed and simulated in Cadence Virtuoso and ADE Assembler
   {{< /card >}}
 
 -  
