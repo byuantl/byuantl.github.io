@@ -45,11 +45,11 @@ Here are some fun projects from throughout the years. Ask me about them!
 
 - {{< card 
     href="/projects/sar-adc" 
-    image="placeholder.svg" 
+    image="/projects/sar-adc/adc-diagram.png" 
   >}}
   **SAR-ADC**
 
-  Description
+  6 bit CMOS successive-approximation ADC (gpdk045) targeting 1V input swing at 100MS/s, employing custom CDAC and dynamic comparator. 
   {{< /card >}}
 {{% /columns %}}
 {{% columns %}}
