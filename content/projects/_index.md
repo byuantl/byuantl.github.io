@@ -40,7 +40,7 @@ Here are some fun projects from throughout the years. Ask me about them!
   >}}
   **PCB Etching at Home**
 
-  Custom etching PCBs enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
+  Custom etched PCBs enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
   {{< /card >}}
 
 - {{< card 

@@ -18,14 +18,14 @@ weight: 1
   loading="lazy" 
 >}}
 # **Overview**
-Custom etching PCBs enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
+Custom etched PCBs enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
 # **Highlights**
 - Rapid Prototyping, Manufacturing
 - EDA Tools (Altium/KiCad/EAGLE)
 - Hazardous Chemical Handling
 ---
 # **Details**
-Check out the CanSat project that this PCB was made for on [Github](https://github.com/ryanziyue/enph253)!
+Check out the CanSat project that this custom PCB was made for on [Github](https://github.com/ryanziyue/enph253)!
 {{% columns ratio="1.618:1"%}}
 - ## **1. Design the PCB**
   Create the schematic and board layout using EDA software like Altium, KiCad, or EAGLE, ensuring all traces are correctly routed for your circuit.
