@@ -36,11 +36,11 @@ Here are some fun projects from throughout the years. Ask me about them!
 {{% columns %}}
 - {{< card 
     href="/projects/pcb-etching" 
-    image="placeholder.svg" 
+    image="/projects/pcb-etching/cleaned.jpg" 
   >}}
   **PCB Etching at Home**
 
-  Description
+  Custom etching PCBs enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
   {{< /card >}}
 
 - {{< card 
