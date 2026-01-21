@@ -27,8 +27,8 @@ Custom etching PCBs enabling rapid prototyping for a CanSat project, cutting tra
 # **Details**
 Check out the CanSat project that this PCB was made for on [Github](https://github.com/ryanziyue/enph253)!
 {{% columns ratio="1.618:1"%}}
-- ## **1. Design Your PCB**
-  Create your schematic and board layout using EDA software like Altium, KiCad, or EAGLE, ensuring all traces are correctly routed for your circuit.
+- ## **1. Design the PCB**
+  Create the schematic and board layout using EDA software like Altium, KiCad, or EAGLE, ensuring all traces are correctly routed for your circuit.
 
 -  
   {{< image 
@@ -46,7 +46,7 @@ Check out the CanSat project that this PCB was made for on [Github](https://gith
   >}}
 
 - ## **2. Print Trace Layout**
-  Print your board design onto glossy paper using a laser printer set to its highest quality and maximum toner density for a solid, dark image.
+  Print the board layout design onto glossy paper using a laser printer set to its highest quality and maximum toner density for a solid, dark image.
 {{% /columns %}}
 {{% columns ratio="1.618:1"%}}
 - ## **3. Transfer Layout to Copper**
