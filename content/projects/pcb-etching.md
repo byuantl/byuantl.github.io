@@ -18,7 +18,7 @@ weight: 1
   loading="lazy" 
 >}}
 # **Overview**
-Custom etched PCBs enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
+In-house PCB etching enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
 # **Highlights**
 - Rapid Prototyping, Manufacturing
 - EDA Tools (Altium/KiCad/EAGLE)
