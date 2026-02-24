@@ -23,6 +23,10 @@ A fully autonomous "search and rescue" robot integrating dual sensing (vision + 
 # **Highlights**
 - Project Management + Advanced Problem Solving
 - Rapid Prototyping, Manufacturing + CAD
+- Tolerance stack-up analysis & precision fit validation
+- Design for Manufacturing (DFM) & Design for Assembly (DFA)
+- Center-of-mass balancing & stability optimization
+- Mechanical-electrical co-design for PCB integration
 - Soldering, Electronics + PCB Design
 - Troubleshooting (noise issues, signal integrity, software + hardware)
 ## **Full Mission**

@@ -35,6 +35,15 @@ Here are some fun projects from throughout the years. Ask me about them!
 {{% /columns %}}
 {{% columns %}}
 - {{< card 
+    href="/projects/cansat" 
+    image="/projects/cansat/cansat.jpg" 
+  >}}
+  **CSDCMS CanSat Challenge**
+
+  CanSat collecting air temperature and pressure data during descent before transitioning to measuring seismic activity upon landing.
+  {{< /card >}}
+
+- {{< card 
     href="/projects/pcb-etching" 
     image="/projects/pcb-etching/cleaned.jpg" 
   >}}
@@ -42,7 +51,8 @@ Here are some fun projects from throughout the years. Ask me about them!
 
   In-house PCB etching enabling rapid prototyping for a CanSat project, cutting traditional manufacturer lead times and costs to accelerate design iterations.
   {{< /card >}}
-
+{{% /columns %}}
+{{% columns %}}
 - {{< card 
     href="/projects/sar-adc" 
     image="/projects/sar-adc/adc-diagram.png" 
@@ -51,8 +61,7 @@ Here are some fun projects from throughout the years. Ask me about them!
 
   6 bit CMOS successive-approximation ADC (gpdk045) targeting 1V input swing at 100MS/s, employing custom CDAC and dynamic comparator. 
   {{< /card >}}
-{{% /columns %}}
-{{% columns %}}
+
 - {{< card 
     href="/projects/self-driving" 
     image="/projects/self-driving/pedestrian_detection.png" 
@@ -61,6 +70,4 @@ Here are some fun projects from throughout the years. Ask me about them!
 
   Self-driving agent navigating simulated ROS Gazebo environment built with computer vision stack including custom CNN for OCR and sign recognition.
   {{< /card >}}
-
--  
 {{% /columns %}}
