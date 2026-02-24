@@ -13,11 +13,13 @@ weight: 1
 {{< katex />}}
 {{% columns ratio="1.618:1"%}}
 - # **About Me**
-  Hey there! I’m Bowen, a third-year Engineering Physics student at the University of British Columbia with a strong interest in analog and mixed-signal design, experimental physics, and building systems that bridge physical principles with real-world hardware.
+  Hey there! I’m Bowen, a third-year Engineering Physics student at the University of British Columbia with a strong interest in experimental physics and building systems that bridge physical principles with real-world hardware.
 
-  I am drawn to physics for its ability to explain how the world works at a fundamental level, and I gravitated toward electronics as a way to make those ideas tangible. Along the way, some of the things I’ve worked on include:
+  I am drawn to physics for its ability to explain how the world works at a fundamental level, and I gravitated toward mechatronics as a way to make those ideas tangible. Along the way, some of the things I’ve worked on include:
 
-  - **Analog and mixed-signal circuit design** to make amplifiers and ADCs
+  <!-- - **Analog and mixed-signal circuit design** to make amplifiers and ADCs -->
+
+  - **Electromechanical integration** and **tolerance analysis** for space-grade hardware, designing precision enclosures and managing **Design for Manufacturing**
 
   - **PCB design** and **bring-up** with Altium, LTspice, and lab instrumentation for robots and satellites
 

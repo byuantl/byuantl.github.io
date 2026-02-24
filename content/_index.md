@@ -21,7 +21,7 @@ weight: 1
   >}}
 
 - # **Hi, I'm Bowen!**
-  I am an Engineering Physics student designing analog and mixed-signal systems at the intersection of physics and real-world hardware.
+  I am an Engineering Physics student designing mechatronic systems at the intersection of physics and real-world hardware.
 {{% /columns %}}
 
 ## **Featured Projects**
