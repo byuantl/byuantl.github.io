@@ -24,22 +24,22 @@ Here are some fun projects from throughout the years. Ask me about them!
   {{< /card >}}
 
 - {{< card 
-    href="/projects/vco" 
-    image="/projects/vco/vco.png" 
-  >}}
-  **45nm Voltage Controlled Oscillator**
-
-  Fully-integrated CMOS Voltage Controlled Oscillator (gpdk045) for 5.25 GHz wireless applications. Analyzed tuning range, supply pushing, and phase noise.
-  {{< /card >}}
-{{% /columns %}}
-{{% columns %}}
-- {{< card 
     href="/projects/op-amp" 
     image="/projects/op-amp/dc.png" 
   >}}
   **45nm Two Stage Op Amp**
 
   Two stage CMOS op amp (gpdk045) achieving 52dB gain and 618MHz bandwidth designed and simulated in Cadence Virtuoso and ADE Assembler
+  {{< /card >}}
+{{% /columns %}}
+{{% columns %}}
+- {{< card 
+    href="/projects/vco" 
+    image="/projects/vco/vco.png" 
+  >}}
+  **45nm Voltage Controlled Oscillator**
+
+  Fully-integrated CMOS Voltage Controlled Oscillator (gpdk045) for 5.25 GHz wireless applications. Analyzed tuning range, supply pushing, and phase noise.
   {{< /card >}}
   
 - {{< card 

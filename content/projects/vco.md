@@ -31,4 +31,4 @@ Fully-integrated CMOS Voltage Controlled Oscillator (VCO) operating at 5.25 GHz 
 - **Power-efficient design (15.3 mW)** achieved through iterative transistor sizing, tail current optimization, and minimizing unnecessary negative resistance margin
 ---
 # **Details**
-{{< pdf src="/projects/lna/Bowen_Yuan_VCO_Report.pdf#view=Fit&page=1" height="85vh" >}}
+{{< pdf src="/projects/vco/Bowen_Yuan_VCO_Report.pdf#view=Fit&page=1" height="85vh" >}}
