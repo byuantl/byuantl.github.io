@@ -168,7 +168,7 @@ Checkpoints are versioned under `llm/runs/<run_name>/<timestamp>/`.
 
 ### Inference
 A CLI (`llm/run.py`) wraps `transformers` generation and decodes the model's
-raw `<S#> ... <EOT>` output back into readable `username: message` form. The
+raw `<S#>` and `<EOT>` output back into readable `username: message` form. The
 Discord bot spawns this as a long-running subprocess and talks to it over a
 simple stdin/stdout line protocol.
 
