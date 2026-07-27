@@ -3,7 +3,7 @@ title: "Cubesat Testing @ ESA"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
-bookHidden: true
+# bookHidden: true
 # bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
