@@ -41,7 +41,8 @@ weight: 1
   alt="title" 
   loading="lazy" 
   >}}
-{{% /columns %}}]{{% columns %}}
+{{% /columns %}}
+{{% columns %}}
 - 
   {{< image 
   src="/projects/cubesat-testing/IMG_8921.PNG" 
