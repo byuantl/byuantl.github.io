@@ -1,5 +1,5 @@
 ---
-title: "PCB Etching at Home"
+title: "PCB Etching @ Home"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
